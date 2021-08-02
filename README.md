@@ -1,12 +1,5 @@
-Khurshed Ali, PhD
+A Novel Nested Q-Learning Method to Address the Time-Constrained Competitive Influence Maximization problem on Social Networks.
 
-Research Interests 
----- Machine Learning 
----- Reinforcement Learning
----- Deep Reinforcement Learning 
----- Data Mining
----- Social Network Analysis
----- Health Informatics
 
 <!---
 khurshedmemon/khurshedmemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
